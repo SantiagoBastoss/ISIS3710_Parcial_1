@@ -1,0 +1,19 @@
+{
+    "Español": "Español",
+    "Inglés": "Inglés",
+    "Acceder": "Acceder",
+    "Cuenta": "Usa tu cuenta de UniAlpes",
+    "Correo": "Correo electrónico",
+    "MensajeCorreo": "Su correo debe seguir un fromato específico",
+    "Siguiente": "Siguiente",
+    "CrearCuenta": "Crear Cuenta",
+    "IngresarContraseña": "Ingresa tu contraseña",
+    "MensajeContraseña": "La contraseña debe ser de mínimo 6 caracteres",
+    "Listado": "Listado de carros",
+    "maker": "Marca",
+    "model": "Modelo",
+    "year": "Año",
+    "available": "Disponible en línea",
+    "price": "Precio",
+    "description": "Descripción: "
+}

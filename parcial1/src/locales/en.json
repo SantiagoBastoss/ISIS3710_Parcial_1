@@ -1,0 +1,19 @@
+{
+    "Español": "Spanish",
+    "Inglés": "English",
+    "Acceder": "Log in",
+    "Cuenta": "Use your UniAlpes account",
+    "Correo": "Email address",
+    "MensajeCorreo": "Your email should follow an established format.",
+    "Siguiente": "Next",
+    "CrearCuenta": "Create account",
+    "IngresarContraseña": "Type your password",
+    "MensajeContraseña": "The password must be at least 6 characters long",
+    "Listado": "List of Cars",
+    "maker": "Car Maker",
+    "model": "Car Model",
+    "year": "Car Year",
+    "available": "Available Online",
+    "price": "Price",
+    "description": "Description: "
+}
